@@ -9,6 +9,8 @@
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 import tombol from './components/tombol.vue'
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/js/bootstrap.js';
 
 export default {
   name: 'App',
