@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="https://vuejs.org/images/logo.png">
+    <img alt="Telkom Schools" src="https://www.dbl.id/uploads/school/26500/99-SMK_TELKOM_MAKASSAR.PNG">
     <HelloWorld msg="Telkom Schools"/>
     <tombol class="btn btn-danger"/>
   </div>

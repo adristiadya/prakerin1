@@ -2,9 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      Telkom Schools merupakan brand yang digunakan untuk lembaga pendidikan tingkat PAUD hingga Menengah. Peluncuran Brand Telkom Schools (Sebelumnya sekolah Telkom Sandhy Putra) dilaksanakan pada tanggal 23 Januari 2014 oleh Dirjen Pendidikan Dasar dan Menengah Kemendikbud RI Prof. Dr. Ir. Achmad Jazidie beserta Dewan Pengurus dan Pembina Yayasan Sandhykara Putra Telkom (YSPT). Saat ini (2021) Lembaga Pendidikan Telkom Schools berjumlah 32 Pendidikan Anak Usia Dini (PAUD), 3 Sekolah Dasar (SD), 3 Sekolah Menengah Pertama (SMP), 1 Sekolah Menengah Atas (SMA), 12 SMK (1 Kerjasama) yang tersebar di 36 Kota dan 22 Provinsi di Indonesia.
+      <a href="https://telkomschools.sch.id/" target="_blank" rel="noopener">Info Lebih Lanjut</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
